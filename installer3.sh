@@ -1,11 +1,11 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/NitroAdvanceFHD/main/installer3.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/SKINS/main/installer3.sh -O - | /bin/sh
 ###########################################
 ###########################################
 #!/bin/sh
 echo
-opkg install --force-overwrite  https://github.com/tarekzoka/NitroAdvanceFHD/blob/main/SKIN-QATAR-2022-VXP-FHD-By-Muaath.ipk?raw=true
+opkg install --force-overwrite  "https://drive.google.com/uc?id=1F5jPs8K6Vl0JpWDXqo9_1BjL1Ks4zqZk&export=download"
 wait
 exit#########################################################
 #########################################################
@@ -38,7 +38,7 @@ if [ -f $MY_TMP_FILE ]; then
 	echo ''
 	if [ $MY_RESULT -eq 0 ]; then
         echo "#########################################################"
-        echo "#  NitroAdvanceFHD Skin $version INSTALLED SUCCESSFULLY      #"
+        echo "#  OP-ARTKOALA Skin $version INSTALLED SUCCESSFULLY      #"
         echo "#                BY TAREK_TT - support on                   #"
         echo "#   .................................................      #"
         echo "#########################################################"
@@ -63,4 +63,6 @@ else
 	echo "Download failed !"
 	exit 1
 fi
-# ------------------------------------------------------------------------------------------------------------
+# 
+
+SKINS------------------------------------------------------------------------------------------------------------
