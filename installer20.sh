@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/plugins/main/installer20.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/SKINS/main/installer20.sh -O - | /bin/sh
 ###########################################
 ###########################################
 #!/bin/sh
