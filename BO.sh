@@ -1,7 +1,9 @@
 #!/bin/sh # 
  # # Command: wget https://raw.githubusercontent.com/tarekzoka/SKINS/main/BO.sh -qO - | /bin/sh ###################################################################################### 
  echo " 
-MY_URL="https://raw.githubusercontent.com/tarekzoka/SKINS/main"
+#!/bin/sh
+echo
+# Download and install 
 MY_SKIN1="https://github.com/tarekzoka/SKINS/blob/main/enigma2-plugin_1.1.1-skin.BO-HLALA.OpenBH.Xevnt1.FHD.tar.gz?raw=truez"
 MY_SKIN2="https://github.com/tarekzoka/SKINS/blob/main/enigma2-plugin_1.1.1-skin.BO-HLALA.OpenBH.Xevnt2.FHD.tar.gz?raw=true"
 echo "******************************************************************************************************************"
