@@ -3,7 +3,7 @@
  echo " 
 MY_URL="https://raw.githubusercontent.com/tarekzoka/SKINS/main"
 MY_SKIN1="https://github.com/tarekzoka/SKINS/blob/main/enigma2-plugin_1.1.1-skin.BO-HLALA.OpenBH.Xevnt1.FHD.tar.gz?raw=truez"
-MY_SKIN2="enigma2-plugin_1.1.1-skin.BO-HLALA.OpenBH.Xevnt2.FHD.tar.gz"
+MY_SKIN2="https://github.com/tarekzoka/SKINS/blob/main/enigma2-plugin_1.1.1-skin.BO-HLALA.OpenBH.Xevnt2.FHD.tar.gz?raw=true"
 echo "******************************************************************************************************************"
 echo "    download and install SKIN  "
 echo "============================================================================================================================="
