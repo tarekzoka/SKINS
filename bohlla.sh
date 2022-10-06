@@ -7,6 +7,7 @@ echo
 ###########################################
 ###########################################
 opkg install --force-overwrite  "https://drive.google.com/uc?id=16ZNOygZd3YlJ-7FX-d0aoj8QVysVEKgO&export=download"
+wait
 sleep 2;
 exit 0
 
