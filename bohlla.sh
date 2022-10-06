@@ -1,14 +1,29 @@
-#!/bin/bash
-######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/SKINS/main/bohlla.sh -O - | /bin/sh
-##
-#!/bin/sh
-echo
-###########################################
-###########################################
-opkg install --force-overwrite  "https://drive.google.com/uc?id=16ZNOygZd3YlJ-7FX-d0aoj8QVysVEKgO&export=download"
-wait
-sleep 2;
-exit 0
 
+#!/bin/sh
+#
+
+wget -O /tmp/BoHLALA_FHD.tar.gz "https://drive.google.com/uc?id=1nBdE3xR4zXo27xsSOc30GfsIycTwuOBd&export=download"
+
+echo ""
+# Download and install plugin
+cd /tmp
+set -e
+echo "===> Downloading And Installing  BoHLALA_FHD.tar Please Wait ......"
+echo
+tar -xzf BoHLALA_FHD.tar.gz -C /
+set +e
+rm -f BoHLALA_FHD.tar.gz
+
+echo ""
+sync
+echo "##############################################################"
+echo "#         docsat audio INSTALLED SUCCESSFULLY             #"
+echo "#             UPLOADED BY ELIESAT                #"
+echo "##############################################################"
+echo "**************************************************************"
+echo "##############################################################"
+echo "#              RESTART YOUR STB NOW                  #"
+echo "##############################################################"
+
+exit 0
 
