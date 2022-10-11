@@ -29,5 +29,3 @@ killall -9 enigma2
 sleep 2;
 
 exit 0
-
-
