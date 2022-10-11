@@ -16,7 +16,7 @@ rm -r /tmp/redglassmacos_bymikael.tar.gz
 
 wait
 
-wget -O /tmp/part2.tar.gz "https://github.com/tarekzoka/SKINS/blob/main/redglassmacos/part2.tar.gz"
+wget -O /tmp/part2.tar.gz "https://github.com/tarekzoka/SKINS/raw/main/redglassmacos/part2.tar.gz"
 
 tar -xzf /tmp/*.tar.gz -C /
 
