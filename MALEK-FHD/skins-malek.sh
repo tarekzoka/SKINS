@@ -5,7 +5,7 @@ wget -O /tmp/skins-malek-fhd_2.0.tar.gz "https://raw.githubusercontent.com/tarek
 
 tar -xzf /tmp/*.tar.gz -C /
 
-rm -r /tmp/skins-malek-fhd_2.0.tar.gz 
+rm -r /tmp/skins-malek-fhd_2.0.tar.gz
 
 killall -9 enigma2
 
