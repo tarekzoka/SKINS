@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 
-wget -O /tmp/skins-malek-fhd_2.0.tar.gz "https://raw.githubusercontent.com/tarekzoka/SKINS/main/skins-malek-fhd_2.0.tar.gz"
+wget -O /tmp/skins-malek-fhd_2.0.tar.gz "https://raw.githubusercontent.com/tarekzoka/SKINS/main/MALEK-FHD/skins-malek-fhd_2.0.tar.gz"
 
 tar -xzf /tmp/*.tar.gz -C /
 
