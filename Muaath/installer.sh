@@ -6,7 +6,7 @@
 # Command: wget https://raw.githubusercontent.com/tarekzoka/SKINS/main/Muaath/installer.sh -O - | /bin/sh #
 ######## 
 # Plugin	... SKIN-ORANGESKY-XP2
-PACKAGE_DIR='xcplugin/main/'
+PACKAGE_DIR='SKINS/main/Muaath/'
 MY_IPK="SKIN-ORANGESKY-XP2-FHD-By-Muaath.ipk"
 # Auto ... Do not change
 
