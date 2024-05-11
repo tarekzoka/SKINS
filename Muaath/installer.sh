@@ -1,11 +1,11 @@
 #!/bin/sh
 #
 
-wget -O /tmp/ORANGESKY-XP2-FHD.tar "https://raw.githubusercontent.com/tarekzoka/SKINS/main/Muaath/ORANGESKY-XP2-FHD.tar"
+wget -O /tmp/ORANGESKY-XP2-FHD.tar.gz "https://raw.githubusercontent.com/tarekzoka/SKINS/main/Muaath/ORANGESKY-XP2-FHD.tar.gz"
 
 tar -xzf /tmp/*.tar.gz -C /
 
-rm -r /tmp/ORANGESKY-XP2-FHD.tar
+rm -r /tmp/ORANGESKY-XP2-FHD.tar.gz
 
 wait
 
